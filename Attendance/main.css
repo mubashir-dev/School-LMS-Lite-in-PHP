@@ -1,0 +1,96 @@
+
+#form_sing_up
+{
+width:850px;
+height:auto;
+margin:auto ;
+border:0px solid black;
+margin-top:5px;
+padding: 25px;
+}
+#form_sing_up form
+{
+	border:0px solid green;
+	width: 70%;
+	margin-left:155px;
+
+}
+textarea 
+{
+	width:85%;
+	height: auto;
+	border-radius: 10px;
+	border-color:grey;
+	border:2px solid grey;
+
+
+
+}
+#file_img
+{
+	border: 2px solid grey;
+	width:85%;;
+	height: 35px;
+	border-radius: 10px;
+
+}
+#form_sing_up form input
+{
+	font-size: 1.4em;
+	font-family: Agency fb;
+}
+#first_name ,#Last_name,#Email,#passwd_1,#passwd_2,#cntct_nbr,#date_of_birth,#Father_name,#student_id,#class_stu,#
+{
+	width:85%;
+	height: 35px;
+	margin:0 auto;
+	border-radius: 8px;
+	border-color:grey;
+	font-size: 1.2em;
+}
+label
+{
+	font-size: 1.5em;
+}
+#Send{
+width:85%;
+height:45px;
+border:1px solid black;
+font-size:  1.7em;
+margin-top:15px;
+margin-left:5px;
+font-family: Agency Fb;
+font-weight: bold;
+	border-radius: 8px;
+
+}
+#Send:hover
+{
+background-color: orange;
+cursor:pointer;
+}
+#main_heading 
+{
+	width:280px;
+	height: 35px;
+	background-color: orange;
+	font-size: 1.7em;
+	text-align: center;
+	margin:0 auto;
+	margin-top:0px;
+	border-radius: 5px 5px; 
+}
+label
+{
+	font-family: Agency Fb;
+}
+::placeholder
+{
+
+
+	color:grey;
+	font-size: 1.4em;
+	font-weight: 150;
+	padding-left: 8px;
+	text-indent: 2px;
+}
